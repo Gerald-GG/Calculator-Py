@@ -16,5 +16,6 @@ This is a basic Python script for a simple calculator that can perform basic ari
 * Python 3.x
 
 # License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 
